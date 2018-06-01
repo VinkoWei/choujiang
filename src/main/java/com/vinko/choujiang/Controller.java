@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class Controller {
 
-    //抽奖对象
+    //抽奖的对象
     public static AliasMethod aliasMethod;
 
     //初始化抽象对象
