@@ -1,5 +1,6 @@
-package com.vinko.choujiang;
+package com.vinko.choujiang.controller;
 
+import com.vinko.choujiang.service.GoodsService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

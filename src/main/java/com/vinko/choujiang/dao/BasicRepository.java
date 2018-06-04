@@ -1,5 +1,6 @@
-package com.vinko.choujiang;
+package com.vinko.choujiang.dao;
 
+import com.vinko.choujiang.domain.Goods;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.repository.CrudRepository;
 /**

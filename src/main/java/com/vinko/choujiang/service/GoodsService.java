@@ -1,8 +1,10 @@
-package com.vinko.choujiang;
+package com.vinko.choujiang.service;
 
+import com.vinko.choujiang.domain.Goods;
+import com.vinko.choujiang.alias.AliasMethod;
+import com.vinko.choujiang.dao.GoodsDao;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.transaction.annotation.Transactional;
-import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.stereotype.Service;
 /**
  * @Author:Vinko

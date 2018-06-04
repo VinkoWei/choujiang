@@ -1,4 +1,4 @@
-package com.vinko.choujiang;
+package com.vinko.choujiang.domain;
 import javax.persistence.*;
 /**
  * @Author:Vinko

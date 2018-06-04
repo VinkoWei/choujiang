@@ -1,4 +1,4 @@
-package com.vinko.choujiang;
+package com.vinko.choujiang.alias;
 import java.util.*;
 /**
  * @Author:Vinko
