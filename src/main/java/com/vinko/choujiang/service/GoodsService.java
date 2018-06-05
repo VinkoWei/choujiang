@@ -26,10 +26,10 @@ public class GoodsService {
         int n = 4;  //奖品数
         double[] event = new double[n];
         //设置中奖概率
-        event[0] = 0.1;  // 1等奖
-        event[1] = 0.1;	// 2等奖
-        event[2] = 0.1;    // 3等奖
-        event[3] = 0.7;  // 未中奖
+        event[0] = 0.01;  // 1等奖
+        event[1] = 0.01;	// 2等奖
+        event[2] = 0.01;    // 3等奖
+        event[3] = 0.97;  // 未中奖
         aliasMethod = new AliasMethod(event, n);
     }
 
